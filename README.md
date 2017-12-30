@@ -4,6 +4,8 @@ This is currently based on "Syntax Highlighting For REBOL (3) in Vim" @ https://
 
 This implies no endorsment on his part.
 
+#This is not TESTED!
+
 The following is the original description, which will remain in place until I declare the transition complete.
 ----
 
